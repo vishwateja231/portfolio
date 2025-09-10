@@ -42,7 +42,6 @@ export const myProjects = [
       { id: 3, name: "Express", path: "/assets/logos/javascript.svg" },
       { id: 4, name: "MongoDB", path: "/assets/logos/javascript.svg" },
       { id: 5, name: "TailwindCSS", path: "/assets/logos/tailwindcss.svg" },
-      { id: 6, name: "Mongoose", path: "/assets/logos/javascript.svg" },
     ],
   },
   {
