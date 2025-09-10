@@ -19,7 +19,7 @@ const Projects = () => {
       id="work"
     >
       <div className="flex items-end justify-between">
-        <h2 className="text-heading">My Selected Projects</h2>
+        <h2 className="text-heading">My Projects</h2>
         <a
           href="https://github.com/vishwateja231"
           target="_blank"
