@@ -123,7 +123,7 @@ export const experiences = [
   {
     title: "Data Science Intern",
     job: "National Small Industries Corporation (NSIC)",
-    date: "Jan 2024 – Jul 2024",
+    date: "Jul 2023 – Jul 2023",
     contents: [
       "Built and deployed a house price prediction model achieving >92% accuracy.",
       "Cleaned and analyzed housing data to identify key pricing drivers and trends.",
