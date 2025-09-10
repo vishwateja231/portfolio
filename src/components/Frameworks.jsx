@@ -4,7 +4,6 @@ export function Frameworks() {
   const skills = [
     "auth0",
     "github",
-    "microsoftsqlserver",
     "azure",
     "css3",
     "git",
